@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"SWQS.ro981rin.Aufgabe3","l":"Calculator"},{"p":"SWQS.ro981rin.Aufgabe3","l":"ICalculator"}]
